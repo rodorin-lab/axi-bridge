@@ -6,6 +6,10 @@
 
 ## 🎯 できること
 
+## 📸 スクリーンショット
+
+![screenshot](screenshots/screenshot.png)
+
 - 🤖 **AI間通信** — Hermes ↔ Noa など複数AIのメッセージ中継
 - 🎤 **ボイス入力** — `rodorin_voice_input.py` で音声→テキスト→メッセージ
 - 👁️ **ビジョンワーカー** — 画像認識結果をAI間で共有
